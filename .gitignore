@@ -1,0 +1,18 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# VS Code junk
+.vscode/
+*.code-workspace
+
+# Data
+data/processed/
+outputs/
+notes for project.txt
+ 
+# Env folders
+.env
+.venv
+env/
+
